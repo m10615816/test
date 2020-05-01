@@ -417,3 +417,25 @@ p a:hover {
 	height: 200px;
 	background-color: grey;
 }
+.customer{
+	width: 40px !important;
+    height: 40px;
+    border-radius: 20px;
+    border: none !important;
+}
+.feedBackBlock{
+	display: inline-flex;
+    margin-top: 10px;
+    text-align: center;
+    justify-content: center;
+    padding: 0px 20px;
+}
+
+.feedback{
+	font-family: 'Lora', serif;
+    font-size: 17px;
+    font-weight: normal;
+    text-transform: none !important;
+    line-height: 1;
+    margin-left: 10px;
+}

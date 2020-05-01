@@ -439,3 +439,27 @@ p a:hover {
     line-height: 1;
     margin-left: 10px;
 }
+.intro{
+	height: 400px;
+	display: inline-flex;
+}
+.intro div img{
+	height: 300px;
+    width: 230px !important;
+    border-radius: 110px;
+    object-fit: cover;
+    border: none !important;
+}
+.intro div p{
+	font-family: 'Lora', serif;
+    font-size: 19px;
+    font-weight: normal;
+    text-transform: none !important;
+    margin-top: 50px;
+    width: 400px;
+    line-height: 35px;
+}
+.intro div{
+	width: 50%;
+	text-align: center;
+}

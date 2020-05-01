@@ -412,3 +412,8 @@ p a:hover {
     font-size: 30px;
     color: white;
 }
+#map {
+	width: 200px;
+	height: 200px;
+	background-color: grey;
+}
